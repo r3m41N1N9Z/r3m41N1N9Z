@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="![aeaeae.gif](https://pictureurl.com/api/storage/file?key=u%2Fanon%2F21e5019e-435b-4021-873d-90d790398e62-aeaeae.gif)"width="500">
+  <img src="![aeaeae.gif](https://pictureurl.com/api/storage/file?key=u%2Fanon%2F21e5019e-435b-4021-873d-90d790398e62-aeaeae.gif)" width="600">
 </p>
+
+
+
 <!--
 **r3m41N1N9Z/r3m41N1N9Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
