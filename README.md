@@ -1,6 +1,8 @@
 <h1 align="center">hey, it's me, it's remainings</h1>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fr3m41N1N9Z&label=chiikawas&labelColor=%23fff1cc&countColor=%23f7c7c9&style=flat-square)
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fr3m41N1N9Z&label=chiikawas&labelColor=%23fff1cc&countColor=%23f7c7c9&style=flat-square" alt="Visitor badge">
+</p>
 
 ---
 <p align="center">
