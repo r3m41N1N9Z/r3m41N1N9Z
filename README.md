@@ -1,11 +1,15 @@
+<h1 align="center">hey, it's me, it's remainings</h1>
 ---
 <p align="center">
   <img src="https://pictureurl.com/api/storage/file?key=u%2Fanon%2F21e5019e-435b-4021-873d-90d790398e62-aeaeae.gif" width="600">
 </p>
 
+<p align="center">
+  <font color="#424242">goddamnit this is too hard</font>
+</p>
+
 ---
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 
 
