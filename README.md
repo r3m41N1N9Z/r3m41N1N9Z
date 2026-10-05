@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <font color="#424242">goddamnit this is too hard</font>
+  <span style="color: #424242;">goddamnit this is too hard just check my other links</span>
 </p>
 
 ---
